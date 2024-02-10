@@ -1,4 +1,4 @@
-#--- Import necessary libraries
+#--- Import necessary libraries for training the model
 import pandas as pd
 import os
 import boto3
