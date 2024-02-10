@@ -80,7 +80,7 @@ class ConvertColumnsTransformer(BaseEstimator, TransformerMixin):
         X = to_object_type(X, columns=column_fct)
         return X
 
-# Function to create and fit the preprocessing pipeline
+# Function to create and fit the preprocessing pipeline to the data
 def create_preprocessing_pipeline(column_fct, numeric_cols, categorical_cols):
            
     preprocessor = ColumnTransformer(
