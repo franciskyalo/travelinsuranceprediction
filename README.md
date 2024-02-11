@@ -48,7 +48,7 @@ The project structure includes:
  
 To clone this repo, use the code below:
 ```
-git clone https://github.com/franciskyalo/streamlit_dashboard.git
+https://github.com/franciskyalo/travelinsuranceprediction.git
 ```
 
 Set up a virtual enviroment;
