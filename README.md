@@ -24,6 +24,8 @@ The project structure includes:
 ![prediction](https://github.com/franciskyalo/travelinsuranceprediction/assets/94622826/df1c041c-cb3e-4932-a7a8-e4f2b92822b4)
 
 
+![dockerhub](https://github.com/franciskyalo/travelinsuranceprediction/assets/94622826/3968163e-635b-485c-8210-0738d0e81d65)
+
 
 ![mlfow ui](https://github.com/franciskyalo/travelinsuranceprediction/assets/94622826/4f46745a-af4a-45da-9c4a-a9422d82eb8f)
 
