@@ -119,7 +119,7 @@ def fine_tune_random_forest(X_train_resampled, y_train_resampled):
 
     return params, tuned_rf_classifier
 
-
+# testing model accuracy 
 def test_model_accuracy(model, X_test_preprocessed, y_test):
     pred_y_rf_tuned = model.predict(X_test_preprocessed)
     accuracy = accuracy_score(y_test, pred_y_rf_tuned)
