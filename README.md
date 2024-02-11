@@ -45,4 +45,42 @@ The project structure includes:
 
 * Customer Feedback and Customization: Gathering feedback from customers who did not purchase insurance can provide valuable insights into their concerns or reasons for not opting for it. This information can be used to customize insurance offerings, address objections, and improve the overall value proposition.
 
+ 
+To clone this repo, use the code below:
+```
+git clone https://github.com/franciskyalo/streamlit_dashboard.git
+```
+
+Set up a virtual enviroment;
+
+```
+# On macOS and Linux
+python3 -m venv venv
+
+# On Windows
+python -m venv venv
+
+```
+
+
+Activate the virtual enviroment using;
+
+```
+# On macOS and Linux
+source venv/bin/activate
+
+# On Windows
+.\venv\Scripts\activate
+
+```
+
+Install dependencies using;
+
+```
+pip install -r requirements.txt
+
+```
+
+
+
 
